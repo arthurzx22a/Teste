@@ -1,1 +1,1 @@
-a program that calculates the chinese remainder theorem
+a software that calculates the chinese remainder theorem
